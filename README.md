@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derek Manning</h1>
 <h3 align="center">A passionate frontend developer from Iowa</h3>
 
-- 🔭 I’m currently working on [Porfolio](https://manningd24.github.io/Portfolio-Page/)
+- 🔭 I’m currently working on [Portfolio](https://manningd24.github.io/Portfolio-Page/)
 
 - 🌱 I’m currently learning **React**
 
